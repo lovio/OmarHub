@@ -1,0 +1,29 @@
+tbl_user:	role:	0---Super Admin
+	           	1---Omar Fellow
+
+tbl_tag:	tagtype:	1---Locations of Work
+		       		2---Fields of Work
+		       		3---Target Populations
+		       		4---Free Tags
+
+tbl_activity:	type:	1---need
+			2---offer
+			3---event
+
+tbl_comment:	type:	1---need
+			2---offer
+			3---event
+
+tbl_followof:	type:	1---need
+			2---offer
+			3---event
+			4---user
+			5---tag
+
+tbl_organizaton:	type:	1---Private Sector
+				2---Government Agency
+				3---Multilateral Organization
+
+tbl_tagof:	type:	1---need
+			2---offer
+			3---event
